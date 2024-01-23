@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Rubik Burned', system-ui;
+    /* font-family: 'Rubik Burned', system-ui; */
     font-size: 15px;
     line-height: 1.6;
     color: #333;
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 
     width: 100%;
-    height: 100vh;ssss
+    height: 100vh;
 
     background: url("../gvalt/assets/images/logo2.png") center 
     no-repeat;
@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
 }
 .intro__title{
-    font-family: 'Caveat', cursive;
+    /* font-family: 'Caveat', cursive; */
     font-size: 50px;
     text-transform: uppercase;
     color: white;
